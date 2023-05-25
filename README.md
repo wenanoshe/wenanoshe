@@ -11,6 +11,8 @@ I'm a Front-end Web Developer 💻!
 > But everyone who is hasty comes surely to poverty.
 > Proverbs 21:5
 
+I am willing to work diligently using my abilities. I am willing to contribute, collaborate and continue learning because knowledge never ends. Let's build something amazing together!
+
 ### 🤝 Connect with me:
 <a href="https://linkedin.com/in/braider-andrey-perez-perez-7b09a2205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://t.me/wenanoshe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -41,3 +43,4 @@ I'm a Front-end Web Developer 💻!
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenanoshe&show_icons=true&theme=github_dark" alt="wenanoshe" />
