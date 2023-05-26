@@ -1,4 +1,4 @@
-<img src="https://github.com/wenanoshe/wenanoshe/assets/78445203/a3d604cb-3507-4bb7-a714-07d610d6fe87" alt="Braider Perez banner, wenanoshe" >
+<img src="https://github.com/wenanoshe/wenanoshe/assets/78445203/b26c437c-ecc2-46ef-9694-4b1bc01a3c7d" alt="Braider Perez banner, wenanoshe" >
 
 <h3 align="center">
 Hi there, I'm <a href="https://wenanoshe.vercel.app/" target="_blank" rel="noreferrer">Wenanoshe</a> 👋
