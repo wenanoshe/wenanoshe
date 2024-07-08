@@ -11,14 +11,13 @@ I'm a Front-end Web Developer 💻!
 > But everyone who is hasty comes surely to poverty.
 > Proverbs 21:5
 
-I am willing to work diligently using my abilities. I am willing to contribute, collaborate and continue learning because knowledge never ends. Let's build something amazing together!
+I am willing to work diligently using my abilities, contribute, collaborate and continue learning because knowledge never ends. Let's build something amazing together!
 
 ### 🤝 Connect with me:
 <a href="https://linkedin.com/in/braider-andrey-perez-perez-7b09a2205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://t.me/wenanoshe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 ### 🔭 I'm currently working on:
-- Components library called [Layblu](https://github.com/wenanoshe/layblu)
+- ECCO - Empresa de cambio y calidad organizacional SAS BIC
 
 ### 💼 Technical Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=149ECA)
