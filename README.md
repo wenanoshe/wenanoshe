@@ -4,7 +4,7 @@
 Hi there, I'm <a href="https://wenanoshe.vercel.app/" target="_blank" rel="noreferrer">Wenanoshe</a> 👋
 </h3>
 <h2 align="center">
-I'm a Front-end Web Developer 💻!
+I'm a Software Web Developer 💻!
 </h2>
 
 > The plans of the diligent lead surely to advantage,
@@ -20,6 +20,7 @@ I am willing to work diligently using my abilities, contribute, collaborate and 
 - ECCO - Empresa de cambio y calidad organizacional SAS BIC
 
 ### 💼 Technical Skills
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=149ECA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +30,7 @@ I am willing to work diligently using my abilities, contribute, collaborate and 
 
 <br>
 
+![Laravel](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF75A4?style=for-the-badge&logo=storybook&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
